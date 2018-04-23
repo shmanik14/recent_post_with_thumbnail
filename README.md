@@ -1,0 +1,1 @@
+# recent_post_with_thumbnail
